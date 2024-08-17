@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Humaun Al Rasel</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Humaun+Al+Rasel)](https://git.io/typing-svg)
 <p> A passionate web developer from Dhaka, Bangladesh. I’m on an exciting journey to become a full stack developer, mastering both front-end and back-end technologies to create seamless, user-friendly web experiences..</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
