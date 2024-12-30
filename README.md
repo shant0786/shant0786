@@ -18,10 +18,10 @@ _MERN FullStack (Developer / Programmer)_
 <!--Start Intro-->
 <p align="left">I am a passionate Full Stack Web Developer from Dhaka, Bangladesh, specializing in crafting seamless, user-centric web solutions. With expertise in JavaScript, React.js, Node.js, Express.js, RDBMS, REST API, and Data Visualization, I am on a mission to bridge the gap between front-end elegance and back-end efficiency. Driven by innovation, I strive to deliver exceptional digital experiences that leave a lasting impact. </p>
 
-- ✨ **Committed to Continuous Learning**: Constantly exploring and mastering new technologies to stay at the forefront of the industry.
-- 🌱 **Building Practical Experience**: Gaining valuable insights and skills through hands-on involvement in both online and offline projects.
-- 💁‍♂️ **Actively Seeking Opportunities**: Enthusiastic about contributing to impactful projects and collaborating with forward-thinking teams.
-- 🏙 **Balancing Education and Development**: Effectively combining academic studies with practical coding experience to achieve excellence in web development.
+-  **Committed to Continuous Learning**: Constantly exploring and mastering new technologies to stay at the forefront of the industry.
+-  **Building Practical Experience**: Gaining valuable insights and skills through hands-on involvement in both online and offline projects.
+-  **Actively Seeking Opportunities**: Enthusiastic about contributing to impactful projects and collaborating with forward-thinking teams.
+-  **Balancing Education and Development**: Effectively combining academic studies with practical coding experience to achieve excellence in web development.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
